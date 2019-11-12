@@ -1,4 +1,4 @@
-
+ 
 library(tidyverse)
 library(data.table)
 library(janitor)
@@ -6,6 +6,8 @@ library(lubridate)
 
 data <- fread('catalegBCN_2019-11-11_17-59.csv')
 cols <- colnames(data)
+
+#### GENERAL INFO ####
 
 # 462 observations, 97 variables
 # name, dataset title (ca,es,en) ...
@@ -61,6 +63,8 @@ data %>%
   mutate(year = year(date_published)) %>% 
   group_by(year) %>% 
   summarise(n = n())
+
+#### GENERAL INFO ####
 
 #### POPULARITY ####
 
@@ -121,10 +125,12 @@ rm(data_available)
 
 #### EXTRA INFO ####
 
+# Searching for shapefile 
+data %>% 
+  filter(shp == "S") %>% view
 
 # What are the determinants of dataset popularity 
 data_rank <- left_join(data_rank,data_rank_add_info)
-
 
 # Datasets popularity table - which are often viewed and rarely used?
 data_rank %>% 
