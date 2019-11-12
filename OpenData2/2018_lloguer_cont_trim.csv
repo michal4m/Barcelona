@@ -1,0 +1,297 @@
+"Any","Trimestre","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Contractes","Nombre"
+2018,"1",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",504
+2018,"1",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",215
+2018,"1",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",115
+2018,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",335
+2018,"1",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",312
+2018,"1",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",533
+2018,"1",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",544
+2018,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",544
+2018,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",540
+2018,"1",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",385
+2018,"1",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",358
+2018,"1",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",0
+2018,"1",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",112
+2018,"1",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",97
+2018,"1",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",147
+2018,"1",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",109
+2018,"1",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",191
+2018,"1",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",403
+2018,"1",4,"Les Corts",19,"les Corts","Contractes de lloguer",327
+2018,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",137
+2018,"1",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",72
+2018,"1",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",23
+2018,"1",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",175
+2018,"1",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",103
+2018,"1",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",224
+2018,"1",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",401
+2018,"1",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",281
+2018,"1",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",126
+2018,"1",6,"Gràcia",29,"el Coll","Contractes de lloguer",60
+2018,"1",6,"Gràcia",30,"la Salut","Contractes de lloguer",91
+2018,"1",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",677
+2018,"1",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",335
+2018,"1",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",223
+2018,"1",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",55
+2018,"1",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",283
+2018,"1",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",34
+2018,"1",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",208
+2018,"1",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",52
+2018,"1",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",42
+2018,"1",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",40
+2018,"1",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",25
+2018,"1",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",5
+2018,"1",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",157
+2018,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",123
+2018,"1",8,"Nou Barris",45,"Porta","Contractes de lloguer",161
+2018,"1",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",92
+2018,"1",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",1
+2018,"1",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",63
+2018,"1",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",7
+2018,"1",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",76
+2018,"1",8,"Nou Barris",51,"Verdun","Contractes de lloguer",74
+2018,"1",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",120
+2018,"1",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",22
+2018,"1",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",4
+2018,"1",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",38
+2018,"1",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",3
+2018,"1",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",46
+2018,"1",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",5
+2018,"1",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",51
+2018,"1",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",290
+2018,"1",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",149
+2018,"1",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",89
+2018,"1",9,"Sant Andreu",63,"Navas","Contractes de lloguer",142
+2018,"1",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",320
+2018,"1",10,"Sant Martí",65,"el Clot","Contractes de lloguer",198
+2018,"1",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",100
+2018,"1",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",58
+2018,"1",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",272
+2018,"1",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",91
+2018,"1",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",112
+2018,"1",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",132
+2018,"1",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",130
+2018,"1",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",83
+2018,"1",99,"No consta",99,"No consta","Contractes de lloguer",329
+2018,"2",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",480
+2018,"2",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",259
+2018,"2",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",114
+2018,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",345
+2018,"2",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",293
+2018,"2",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",505
+2018,"2",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",546
+2018,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",520
+2018,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",609
+2018,"2",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",377
+2018,"2",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",380
+2018,"2",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",2
+2018,"2",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",119
+2018,"2",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",95
+2018,"2",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",186
+2018,"2",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",103
+2018,"2",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",195
+2018,"2",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",396
+2018,"2",4,"Les Corts",19,"les Corts","Contractes de lloguer",347
+2018,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",159
+2018,"2",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",32
+2018,"2",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",28
+2018,"2",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",204
+2018,"2",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",109
+2018,"2",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",234
+2018,"2",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",475
+2018,"2",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",315
+2018,"2",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",132
+2018,"2",6,"Gràcia",29,"el Coll","Contractes de lloguer",57
+2018,"2",6,"Gràcia",30,"la Salut","Contractes de lloguer",111
+2018,"2",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",664
+2018,"2",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",373
+2018,"2",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",224
+2018,"2",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",81
+2018,"2",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",272
+2018,"2",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",32
+2018,"2",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",204
+2018,"2",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",74
+2018,"2",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",60
+2018,"2",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",34
+2018,"2",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",18
+2018,"2",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",2
+2018,"2",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",180
+2018,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",174
+2018,"2",8,"Nou Barris",45,"Porta","Contractes de lloguer",197
+2018,"2",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",107
+2018,"2",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",1
+2018,"2",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",103
+2018,"2",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",8
+2018,"2",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",70
+2018,"2",8,"Nou Barris",51,"Verdun","Contractes de lloguer",70
+2018,"2",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",166
+2018,"2",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",36
+2018,"2",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",7
+2018,"2",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",38
+2018,"2",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",0
+2018,"2",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",51
+2018,"2",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",3
+2018,"2",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",52
+2018,"2",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",323
+2018,"2",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",181
+2018,"2",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",95
+2018,"2",9,"Sant Andreu",63,"Navas","Contractes de lloguer",143
+2018,"2",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",371
+2018,"2",10,"Sant Martí",65,"el Clot","Contractes de lloguer",189
+2018,"2",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",113
+2018,"2",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",58
+2018,"2",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",269
+2018,"2",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",68
+2018,"2",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",100
+2018,"2",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",100
+2018,"2",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",129
+2018,"2",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",96
+2018,"2",99,"No consta",99,"No consta","Contractes de lloguer",409
+2018,"3",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",456
+2018,"3",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",228
+2018,"3",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",85
+2018,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",278
+2018,"3",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",325
+2018,"3",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",458
+2018,"3",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",538
+2018,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",560
+2018,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",637
+2018,"3",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",393
+2018,"3",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",358
+2018,"3",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",0
+2018,"3",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",114
+2018,"3",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",87
+2018,"3",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",150
+2018,"3",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",114
+2018,"3",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",200
+2018,"3",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",388
+2018,"3",4,"Les Corts",19,"les Corts","Contractes de lloguer",402
+2018,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",206
+2018,"3",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",74
+2018,"3",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",24
+2018,"3",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",227
+2018,"3",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",111
+2018,"3",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",225
+2018,"3",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",441
+2018,"3",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",319
+2018,"3",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",169
+2018,"3",6,"Gràcia",29,"el Coll","Contractes de lloguer",56
+2018,"3",6,"Gràcia",30,"la Salut","Contractes de lloguer",89
+2018,"3",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",643
+2018,"3",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",327
+2018,"3",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",189
+2018,"3",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",66
+2018,"3",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",242
+2018,"3",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",43
+2018,"3",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",170
+2018,"3",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",84
+2018,"3",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",54
+2018,"3",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",38
+2018,"3",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",26
+2018,"3",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",2
+2018,"3",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",147
+2018,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",146
+2018,"3",8,"Nou Barris",45,"Porta","Contractes de lloguer",152
+2018,"3",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",93
+2018,"3",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",2
+2018,"3",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",84
+2018,"3",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",11
+2018,"3",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",56
+2018,"3",8,"Nou Barris",51,"Verdun","Contractes de lloguer",72
+2018,"3",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",127
+2018,"3",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",37
+2018,"3",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",5
+2018,"3",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",35
+2018,"3",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",3
+2018,"3",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",29
+2018,"3",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",5
+2018,"3",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",42
+2018,"3",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",317
+2018,"3",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",186
+2018,"3",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",91
+2018,"3",9,"Sant Andreu",63,"Navas","Contractes de lloguer",121
+2018,"3",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",350
+2018,"3",10,"Sant Martí",65,"el Clot","Contractes de lloguer",163
+2018,"3",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",98
+2018,"3",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",50
+2018,"3",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",239
+2018,"3",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",170
+2018,"3",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",109
+2018,"3",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",118
+2018,"3",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",113
+2018,"3",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",98
+2018,"3",99,"No consta",99,"No consta","Contractes de lloguer",407
+2018,"4",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",478
+2018,"4",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",265
+2018,"4",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",101
+2018,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",349
+2018,"4",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",261
+2018,"4",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",506
+2018,"4",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",584
+2018,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",568
+2018,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",618
+2018,"4",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",357
+2018,"4",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",375
+2018,"4",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",1
+2018,"4",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",118
+2018,"4",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",86
+2018,"4",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",163
+2018,"4",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",124
+2018,"4",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",195
+2018,"4",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",403
+2018,"4",4,"Les Corts",19,"les Corts","Contractes de lloguer",360
+2018,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",186
+2018,"4",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",55
+2018,"4",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",21
+2018,"4",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",206
+2018,"4",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",98
+2018,"4",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",245
+2018,"4",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",470
+2018,"4",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",346
+2018,"4",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",135
+2018,"4",6,"Gràcia",29,"el Coll","Contractes de lloguer",50
+2018,"4",6,"Gràcia",30,"la Salut","Contractes de lloguer",105
+2018,"4",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",702
+2018,"4",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",317
+2018,"4",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",177
+2018,"4",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",83
+2018,"4",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",279
+2018,"4",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",29
+2018,"4",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",190
+2018,"4",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",85
+2018,"4",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",59
+2018,"4",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",42
+2018,"4",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",31
+2018,"4",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",5
+2018,"4",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",167
+2018,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",155
+2018,"4",8,"Nou Barris",45,"Porta","Contractes de lloguer",153
+2018,"4",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",88
+2018,"4",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",3
+2018,"4",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",93
+2018,"4",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",8
+2018,"4",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",68
+2018,"4",8,"Nou Barris",51,"Verdun","Contractes de lloguer",76
+2018,"4",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",149
+2018,"4",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",30
+2018,"4",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",5
+2018,"4",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",31
+2018,"4",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",1
+2018,"4",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",48
+2018,"4",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",7
+2018,"4",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",40
+2018,"4",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",338
+2018,"4",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",192
+2018,"4",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",92
+2018,"4",9,"Sant Andreu",63,"Navas","Contractes de lloguer",157
+2018,"4",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",357
+2018,"4",10,"Sant Martí",65,"el Clot","Contractes de lloguer",170
+2018,"4",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",98
+2018,"4",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",58
+2018,"4",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",292
+2018,"4",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",84
+2018,"4",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",97
+2018,"4",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",96
+2018,"4",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",114
+2018,"4",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",106
+2018,"4",99,"No consta",99,"No consta","Contractes de lloguer",398
