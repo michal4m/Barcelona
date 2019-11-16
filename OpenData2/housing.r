@@ -6,6 +6,8 @@ library(data.table)
 library(janitor)
 library(lubridate)
 
+library(viridis) # colors
+
 # Barcelona metropolitan area
 # https://en.wikipedia.org/wiki/Barcelona_metropolitan_area
 
@@ -93,20 +95,22 @@ library(lubridate)
 #### FIRST DATA SET CONCERNING HABITATGE ####
 
 # Rent prices
-data <- fread('2018_lloguer_preu_trim.csv')
+data <- fread('2018_lloguer_preu_trim.csv',encoding = "UTF-8")
 cols <- colnames(data)
+
+l <- unique(data$Lloguer_mitja)[2]
 
 # Average rent per squared meter
 data %>% 
-  filter(Lloguer_mitja == 'Lloguer mitjà per superfície (Euros/m2 mes)') %>% 
+  filter(Lloguer_mitja == l) %>%
   filter(Trimestre == 4) %>% 
-  group_by(Nom_Districte,Nom_Barri) %>% 
+  group_by(Nom_Districte,Nom_Barri) %>%  
   summarise(rent_monthly_per_meter = median(Preu)) %>% 
   arrange(desc(rent_monthly_per_meter)) -> data_rent_monthly_per_meter
 
 # Average rent
 data %>% 
-  filter(Lloguer_mitja != 'Lloguer mitjà per superfície (Euros/m2 mes)') %>% 
+  filter(Lloguer_mitja != l) %>% 
   filter(Trimestre == 4) %>% 
   group_by(Nom_Districte,Nom_Barri) %>% 
   summarise(rent_monthly = median(Preu)) %>% 
@@ -139,9 +143,21 @@ data2 %>%
 
 #### SECOND DATA SET CONCERNING HABITATGE ####
 
+#### JOINING DATASETS AND ADDING BARRI CODE ####
+
 data_rent2 <- left_join(data_rent,data2_transactions)
 
-# How much would a 50 meter flat cost me?
+data %>% 
+  select(Codi_Barri,Nom_Barri) %>% 
+  distinct() %>% 
+  mutate(Codi_Barri = str_pad(Codi_Barri,2,"left",0)) -> barri_codes
+
+data_rent2 <- left_join(data_rent2,barri_codes)
+data_rent2 <- data_rent2 %>% select(Codi_Barri,everything())
+
+#### JOINING DATASETS AND ADDING BARRI CODE ####
+
+#### How much would a 50 meter flat cost me? ####
 flat_size = 50
 eur_pln = 4.3
 
@@ -155,6 +171,8 @@ data_rent2 %>%
   group_by(class_pln) %>% 
   summarise(n_of_districts = n()) %>% 
   arrange(desc(class_pln)) %>% view
+
+#### How much would a 50 meter flat cost me? ####
   
 # TO DO: 
 # 1) import map of Barcelona
@@ -162,9 +180,28 @@ data_rent2 %>%
 
 # https://rstudio.github.io/leaflet/json.html
 library(geojsonio)
-nycounties <- geojsonio::geojson_read("json/nycounties.geojson",
+# nycounties <- geojsonio::geojson_read("gz_2010_us_050_00_500k.json",
+#                                       what = "sp")
+
+# nycounties <- geojsonio::geojson_read("area-estadistica-basica.geojson",
+#                                       what = "sp")
+
+nycounties <- geojsonio::geojson_read("barris.geojson",
                                       what = "sp")
 
+nycounties@data <- left_join(nycounties@data,data_rent2, 
+                             by = c("BARRI" = "Codi_Barri"))
+
+library(leaflet)
+pal <- colorNumeric("viridis", NULL)
+
+leaflet(nycounties) %>%
+  addTiles() %>%
+  addPolygons(stroke = FALSE, smoothFactor = 0.3, fillOpacity = 1,
+              fillColor = ~pal(estimated_50_pln),
+              label = ~paste0(Nom_Barri, ": ", 
+                              formatC(estimated_50_pln, big.mark = "")," PLN")) %>% 
+  addLegend("bottomright", pal = pal, values = ~estimated_50_pln,bins = 8)
 
 
          
