@@ -159,4 +159,12 @@ data_rent2 %>%
 # TO DO: 
 # 1) import map of Barcelona
 # 2) plot rent costs 
+
+# https://rstudio.github.io/leaflet/json.html
+library(geojsonio)
+nycounties <- geojsonio::geojson_read("json/nycounties.geojson",
+                                      what = "sp")
+
+
+
          
